@@ -1,0 +1,30 @@
+C:\Users\laptop point\Desktop\oopProject\oopProject\bin\Debug\oopProject.exe.config
+C:\Users\laptop point\Desktop\oopProject\oopProject\bin\Debug\oopProject.exe.manifest
+C:\Users\laptop point\Desktop\oopProject\oopProject\bin\Debug\oopProject.application
+C:\Users\laptop point\Desktop\oopProject\oopProject\bin\Debug\oopProject.exe
+C:\Users\laptop point\Desktop\oopProject\oopProject\bin\Debug\oopProject.pdb
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.csprojResolveAssemblyReference.cache
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.Form1.resources
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.Properties.Resources.resources
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.csproj.GenerateResource.cache
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.csproj.CoreCompileInputs.cache
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.exe.manifest
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.application
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.exe
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.pdb
+C:\Users\laptop point\Desktop\oopProject\oopProject\obj\Debug\oopProject.Form2.resources
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\bin\Debug\oopProject.exe.config
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\bin\Debug\oopProject.exe.manifest
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\bin\Debug\oopProject.application
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\bin\Debug\oopProject.exe
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\bin\Debug\oopProject.pdb
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.csprojResolveAssemblyReference.cache
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.Form1.resources
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.Form2.resources
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.Properties.Resources.resources
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.csproj.GenerateResource.cache
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.csproj.CoreCompileInputs.cache
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.exe.manifest
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.application
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.exe
+C:\Users\laptop point\Desktop\New folder\oopProject\oopProject\obj\Debug\oopProject.pdb
